@@ -5,6 +5,7 @@ import Circles from '../images/MaskImage.png';
 import Carousel from './Carousel';
 import Header from '../Header/Header';
 import Back from '../images/background1.png'
+import BackgroundMobile from '../images/backgroundMobile.png'
 
 
 const MainDivFold1 = styled.div`
@@ -16,7 +17,7 @@ const MainDivFold1 = styled.div`
 
 const BackgroundFold1 = styled.div`
   background-image: url(${Back});
-  position: absolute;
+  position: fixed;
   opacity: 6%;
   width: 100%;
   height: 100%;
@@ -26,9 +27,18 @@ const BackgroundFold1 = styled.div`
   background-size: cover;
   z-index: 0;
 
-  @media (max-width: 570px) {
-    width: 100vw;
-    height: 100vh;
+  @media (max-width: 576px) {
+    background-image: url(${BackgroundMobile});
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
+
+  @media (max-width: 818px) {
+    background-image: url(${BackgroundMobile});
+    width: 100%;
+    height: 100%;
+    background-size: cover;
   }
 `; 
 
