@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.7365c139.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7365c139.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/css/2.549b1ba3.chunk.css": "/portfolio/static/css/2.549b1ba3.chunk.css",
+    "static/js/2.41a6228e.chunk.js": "/portfolio/static/js/2.41a6228e.chunk.js",
+    "static/js/2.41a6228e.chunk.js.map": "/portfolio/static/js/2.41a6228e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.af9ce47a8af65ba9686e5464a8a941e5.js": "/portfolio/precache-manifest.af9ce47a8af65ba9686e5464a8a941e5.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.549b1ba3.chunk.css.map": "/portfolio/static/css/2.549b1ba3.chunk.css.map",
+    "static/media/MaskImage.png": "/portfolio/static/media/MaskImage.5e519320.png",
+    "static/media/background1.png": "/portfolio/static/media/background1.4ba770c8.png",
+    "static/media/buttonCV.png": "/portfolio/static/media/buttonCV.99976ffb.png",
+    "static/media/slick-theme.css": "/portfolio/static/media/slick.f97e3bbf.svg"
+  }
+}
