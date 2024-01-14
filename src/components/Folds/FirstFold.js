@@ -29,7 +29,7 @@ const BackgroundFold1 = styled.div`
 
   @media (max-width: 576px) {
     background-image: url(${BackgroundMobile});
-    opacity: 60%;
+    opacity: 20%;
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -39,7 +39,7 @@ const BackgroundFold1 = styled.div`
     background-image: url(${BackgroundMobile});
     width: 100%;
     height: 100%;
-    opacity: 60%;
+    opacity: 20%;
     background-size: cover;
   }
 `; 
