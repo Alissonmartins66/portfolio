@@ -142,13 +142,17 @@ const Images = styled.img`
         height: 50px;
     }
     @media (max-width: 780px) {
-        width: 50px;
-        height: 50px;
+        width: 30px;
+        height: 30px;
     }
 
     @media (max-height: 568px) {
-        width: 50px;
-        height: 50px;
+        width: 30px;
+        height: 30px;
+    }
+    @media (max-width: 320px) {
+        width: 30px;
+        height: 30px;
     }
     
 `
