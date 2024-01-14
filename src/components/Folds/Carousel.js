@@ -121,30 +121,34 @@ const DivImages = styled.div`
 `
 const Images = styled.img`
     background-color: transparent;
-    width: 100%;
-    height: 3.50rem;
+    width: 50px;
+    height: 50px;
     padding-left: 10rem;
     padding-right: 10rem;
     padding-top: 6px;
    
     @media (max-height: 1280px) {
-        height: 4rem;
+        width: 50px;
+        height: 50px;
     }
 
     @media (max-height: 1104px) {
-        height: 5rem;
-        padding-top: 5px;
+        width: 50px;
+        height: 50px;
     }
 
     @media (max-height: 800px) {
-        height: 3.5rem;
+        width: 50px;
+        height: 50px;
     }
     @media (max-width: 780px) {
-        height: 3.5rem;
+        width: 50px;
+        height: 50px;
     }
 
     @media (max-height: 568px) {
-        height: 3rem;
+        width: 50px;
+        height: 50px;
     }
     
 `
